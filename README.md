@@ -6,8 +6,7 @@ Built with plain HTML, CSS and JavaScript. No build step, no dependencies. Desig
 
 ## Live site
 
-> Replace this line with the live URL after publishing.
-> `https://<username>.github.io/<repository>/`
+**https://abodaniel435-rgb.github.io/maxwell-portfolio/**
 
 ## Structure
 
